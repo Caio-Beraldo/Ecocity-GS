@@ -7,6 +7,7 @@ EcoCity é um jogo de simulação inovador que desafia os jogadores a construir 
 
 Tecnologias Utilizadas:
 Figma: Criação de interfaces e design UX/UI.
-HTML: Estrutura do site com navegação e formulários.
-CSS: Estilo visual moderno com modo noturno.
-JavaScript: Validação de login e formulários e alternância entre modos claro e escuro.
+HTML: Estrutura do site com navegação.
+CSS: Estilo visual com modo noturno.
+JavaScript: Validação de login e alternância entre modos claro e escuro.
+
