@@ -36,7 +36,8 @@ document.querySelector(".login button").addEventListener("click", function () {
     if (document.body.classList.contains("dark-mode")) {
       toggleThemeButton.textContent = "Modo Claro";
       document.body.style.backgroundColor = "#000";
-      document.body.style.color = "#fff";
+      document.body.style.color = "#fff";     
+    
     } else {
       toggleThemeButton.textContent = "Modo Noturno";
       document.body.style.backgroundColor = "#111";
